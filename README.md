@@ -8,4 +8,8 @@ Start virtual python environment and install flask using pip, then try it out
 > pip install flask
 > python app.py
 ...
-> deactivate
+> deactivate \
+\
+To run in Docker:\
+> docker build -t simpleflask . \
+> docker run -p 5000:5000 simpleflask
