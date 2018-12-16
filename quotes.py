@@ -34,7 +34,7 @@ def funny_quotes():
 		{
 			"author" : "Clint Eastwood",
 			"quote" : "They say marriages are made in Heaven. But so is thunder and lightning."
-		}
+		},
 		{
 			"author" : "Fredrik Palmgren",
 			"quote" : "Whatever"
