@@ -13,3 +13,6 @@ Start virtual python environment and install flask using pip, then try it out\
 To run in Docker:\
 > docker build -t simpleflask . \
 > docker run -p 5000:5000 simpleflask
+\
+To try it out, use this endpoint for an example:
+http://localhost:5000/api/funny
